@@ -8,7 +8,7 @@ Gostaria de adicionar um desafio para que outros membros da comunidade possam en
      * Crie um fork do projeto e realize um pull com a última versão da branch main
 
 * Requisitos
-    * Enunciado claro, especificando quaisquer restrições nos dados de entrada (intervalos de valores aceitos);
+    * Enunciado claro em arquivo chamado enunciado.txt, especificando quaisquer restrições nos dados de entrada (intervalos de valores aceitos);
     * Também no enunciado, adicionar pelo menos 3 casos de teste, com entrada e saída esperados, para que se possa validar soluções desenvolvidas;
     * Utilização de comentários de código na solução;
     * Mensagens de commit claras.
