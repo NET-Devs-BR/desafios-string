@@ -10,7 +10,8 @@ Gostaria de adicionar um desafio para que outros membros da comunidade possam en
 * Requisitos
     * Enunciado claro em arquivo chamado enunciado.txt, especificando quaisquer restrições nos dados de entrada (intervalos de valores aceitos);
     * Também no enunciado, adicionar pelo menos 3 casos de teste, com entrada e saída esperados, para que se possa validar soluções desenvolvidas;
-    * Utilização de comentários de código na solução;
+    * Utilização de comentários de código na solução quando necessário;
     * Mensagens de commit claras.
+    * Solução em uma pasta NomeDoProblema/NomeDoProblema_Solucao
 
 * Antes de mandar a PR, revise se sua contribuição atende a todos os Requisitos descritos acima.
