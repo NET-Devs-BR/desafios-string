@@ -6,4 +6,5 @@ Cada desafio está contido em uma pasta própria que contém o enunciado e solu�
 
 Quer contribuir com o projeto? Leia o [guia de contribuição](https://github.com/NET-Devs-BR/desafios-string/blob/main/CONTRIBUTING.md). 
 
-## Desafios atuais
+## Desafios
+- FizzBuzz
