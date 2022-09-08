@@ -1,6 +1,6 @@
 # Desafios de String - .NET Devs BR
 
-**Desafios** envolvendo Strings.
+**Desafios** envolvendo Strings, para que você possa se desafiar.
 
 Cada desafio está contido em uma pasta própria que contém o enunciado e solução, e quando necessário, código-fonte inicial.
 
