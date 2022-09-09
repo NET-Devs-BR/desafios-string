@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoPermission.Solution", "src\OctoPermission.Solution.csproj", "{AD72A340-7883-4F55-A259-425BBAAF50EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoPermission.Solution.Test", "test\OctoPermission.Solution.Test.csproj", "{493D35CB-555C-4F4B-956B-FEC7BF60F6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD72A340-7883-4F55-A259-425BBAAF50EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD72A340-7883-4F55-A259-425BBAAF50EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD72A340-7883-4F55-A259-425BBAAF50EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD72A340-7883-4F55-A259-425BBAAF50EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493D35CB-555C-4F4B-956B-FEC7BF60F6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493D35CB-555C-4F4B-956B-FEC7BF60F6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493D35CB-555C-4F4B-956B-FEC7BF60F6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493D35CB-555C-4F4B-956B-FEC7BF60F6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
