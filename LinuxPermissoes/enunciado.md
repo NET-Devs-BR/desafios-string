@@ -1,4 +1,4 @@
-# Linux Permission
+# Linux Permissões
 
 O sistema de permissões do Linux é dividido em três partes: permissões do usuário,
 permissões do grupo e permissões de outros. Ainda, cada uma das partes pode ter permissões
