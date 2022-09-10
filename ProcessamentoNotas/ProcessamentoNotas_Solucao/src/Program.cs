@@ -25,7 +25,8 @@ public class Program {
         var alunosAprovados = 0;
         foreach (var somaNotasAluno in somaNotasAlunosLista)
         {
-            if (somaNotasAluno/3m >= 6m)
+            var media = CalcularMediaAluno(somaNotasAluno);
+            if (AlunoEstaAprovado(media))
             {
                 alunosAprovados++;
             }
@@ -74,6 +75,12 @@ public class Program {
 
         return somaNotasAluno;
     }
+
+    private static decimal CalcularMediaAluno(int somaNotasAluno) =>
+        somaNotasAluno/TOTAL_NOTAS_ALUNO;
+
+    private static bool AlunoEstaAprovado(decimal mediaAluno) =>
+        mediaAluno >= 6m;
 
     public static void Main()
     {
