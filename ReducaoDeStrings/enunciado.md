@@ -1,8 +1,12 @@
 # Redução de Strings
 
-Reduza uma string com caracteres minúsculos no intervalo de `ascii[a..z]` realizando uma série de operações. Em cada operação, selecione o par de letras adjacentes que são iguais, e remova-os. 
+Reduza uma string `s` com caracteres minúsculos no intervalo de `ascii[a..z]` realizando uma série de operações. Em cada operação, selecione o par de letras adjacentes que são iguais, e remova-os. 
 
-Se no final a string ficar vazia, retornar `'Empty String'`.
+Se no final a string `s` ficar vazia, retornar `'Empty String'`.
+
+## Restrições
+
+- `1 <= tamanho de s <= 100`
 
 ## Casos de teste
 
