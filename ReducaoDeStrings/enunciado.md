@@ -2,7 +2,7 @@
 
 Reduza uma string `s` com caracteres minúsculos no intervalo de `ascii[a..z]` realizando uma série de operações. Em cada operação, selecione o par de letras adjacentes que são iguais, e remova-os. 
 
-Se no final a string `s` ficar vazia, retornar `'Empty String'`.
+Se no final a string `s` ficar vazia, retornar `'String Vazia'`.
 
 ## Restrições
 
