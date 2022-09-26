@@ -17,6 +17,8 @@ string redutorDeString(string s){
     }
 
     var pilhaVazia = pilhaDeCaracteres.Count == 0;
+    
+    // Juntar caracteres da pilha em uma string sem espaçamento
     var palavraReduzida = new string((pilhaVazia) ? "Empty String" : string.Join(null, pilhaDeCaracteres.Reverse()));
 
     return palavraReduzida;
