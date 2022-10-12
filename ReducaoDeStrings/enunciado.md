@@ -24,7 +24,7 @@ Segue abaixo, exemplos de entrada e saída do nosso problema:
 > abba
 
 ### Saída 2
-> 'Empty String'
+> 'String Vazia'
 
 # 
 
