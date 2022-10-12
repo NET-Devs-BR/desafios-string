@@ -14,3 +14,4 @@ Quer contribuir com o projeto? Leia o [guia de contribuição](https://github.co
 ## Desafios
 - FizzBuzz
 - Processamento de Notas
+- Redução de String  
