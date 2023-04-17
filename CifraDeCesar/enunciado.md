@@ -18,7 +18,7 @@ Dado uma operação `op`, uma string `s` e um parâmetro `chave` criptografar ou
 ## Restrições
 
 - `1 <= tamanho de s <= 100`
-- `1 <= chave <= 26`
+- `1 <= chave <= 25`
 - `Letras minúsculas ou maiusculas`
 
 ## Casos de teste
