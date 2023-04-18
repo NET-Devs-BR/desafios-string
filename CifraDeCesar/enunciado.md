@@ -27,9 +27,9 @@ Dado uma string `s` e um parâmetro `chave` criptografar utilizando a **Cifra de
 Segue abaixo, exemplos de entradas e saídas do nosso problema:
 
 ### Entrada 1
-> 3
-
 > aab
+
+> 3
 
 ### Saída 1
 > ccd
@@ -37,9 +37,9 @@ Segue abaixo, exemplos de entradas e saídas do nosso problema:
 # 
 
 ### Entrada 2
-> 2
-
 > abba
+
+> 2
 
 ### Saída 2
 
@@ -48,9 +48,9 @@ Segue abaixo, exemplos de entradas e saídas do nosso problema:
 # 
 
 ### Entrada 3
-> 23
+> Sou aluno do Metodo .NET Direto ao Ponto!
 
-> Sou aluno do Metodo .NET Direto ao Ponto
+> 5
 
 ### Saída 3
-> Okq whqjk zk iapkzk .JAP zenapk wk lkjpk!
+> Wsy epyrs hs Qixshs .RIX Hmvixs es Tsrxs!
