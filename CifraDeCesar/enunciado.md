@@ -12,14 +12,15 @@ A `chave` compartilhada entre eles foi o número `3`, então Alice utiliza esse 
 
 Quando Bob receber a mensagem ele vai precisar da chave para descriptografá-la da mesma forma deslocamos 3 posições a esquerda para cada letra voltando a mensagem original.
 
-Dado uma operação `op`, uma string `s` e um parâmetro `chave` criptografar ou descriptografar utilizando a **Cifra de César**.
+Dado uma string `s` e um parâmetro `chave` criptografar utilizando a **Cifra de César**.
 
 
 ## Restrições
 
 - `1 <= tamanho de s <= 100`
 - `1 <= chave <= 25`
-- `Letras minúsculas ou maiusculas`
+
+**Observação:** Somente letras devem ser criptografadas caracteres especiais devem ser ignorados
 
 ## Casos de teste
 
