@@ -27,7 +27,7 @@ string Criptografar(string s, int chave){
 
 bool EhCaracterEspecial(char c)
 {
-    var caracteresEspeciais = "!@#$%&(*)-_+=§,/:;[]{}?. ";
+    var caracteresEspeciais = "!@#$%&(*)-_+=§,/:;[]{}?. `''\"?°º/|";
     return caracteresEspeciais.Contains(c);
 }
 
