@@ -18,7 +18,8 @@ string Criptografar(string s, int chave){
             continue;
         }
 
-        var letraCriptograda = c + chave - 1;
+        var letraCriptograda = char.IsUpper(c) ? ((c % 'Z') == 0 ? 'A' : c % 'Z' + chave) :
+                                                 ((c % 'z') == 0 ? 'a' : c % 'z' + chave);
         mensagemCriptografada += ((char)letraCriptograda);
     }
 
