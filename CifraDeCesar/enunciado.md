@@ -8,7 +8,7 @@ Por exemplo, se Alice quer transmitir uma mensagem para Bob, mas quer manter sig
 
 A `chave` compartilhada entre eles foi o número `3`, então Alice utiliza esse parâmetro para criptografar a mensagem deslocando cada letra 3 posições a direita no alfabeto resultando na mensagem criptografada abaixo:
 
-> `Og gpeqpvtg pc cxgpkfc rcwnkuvc`
+> `Ph hqfrqwuh qd Dyhqlgd Sdxolvwd`
 
 Quando Bob receber a mensagem ele vai precisar da chave para descriptografá-la da mesma forma deslocamos 3 posições a esquerda para cada letra voltando a mensagem original.
 
@@ -32,7 +32,7 @@ Segue abaixo, exemplos de entradas e saídas do nosso problema:
 > 3
 
 ### Saída 1
-> ccd
+> dde
 
 # 
 
@@ -43,7 +43,7 @@ Segue abaixo, exemplos de entradas e saídas do nosso problema:
 
 ### Saída 2
 
-> bccb
+> cddc
 
 # 
 
@@ -53,4 +53,4 @@ Segue abaixo, exemplos de entradas e saídas do nosso problema:
 > 5
 
 ### Saída 3
-> Wsy epyrs hs Qixshs .RIX Hmvixs es Tsrxs!
+> Xtz fqzst it Rjytit .SJY Inwjyt ft Utsyt!
